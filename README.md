@@ -10,27 +10,29 @@
 
 ### 🔐 Cybersecurity & ⚙️ DevOps Arsenal
 
-<p align="center">
-  <!-- Cybersecurity -->
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/TryHackMe-00AF66?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
-  <img src="https://img.shields.io/badge/Splunk-F2711D?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<p align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" alt="Visual Basic" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <!-- Cybersecurity Logos -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Metasploit_logo.svg" alt="Metasploit" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/BurpSuite_Comunity_Edition.svg" alt="Burp Suite" width="40" height="40" />
+  <img src="https://tryhackme.com/images/logo.svg" alt="TryHackMe" width="40" height="40" />
+  <img src="https://hackthebox.eu/static/images/htb-logo-full.svg" alt="Hack The Box" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Splunk_logo.svg" alt="Splunk" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40" />
+
+  <!-- DevOps Logos -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="SQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ansible_logo.svg" alt="Ansible" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
+
 </p>
 
 ---
@@ -63,17 +65,14 @@
 ### 📡 Find Me in the Wild
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ChristophWalls/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <!-- X (Twitter) -->
   <a href="https://x.com/Indie_Viking" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/>
   </a>
 
-  <!-- Discord -->
   <a href="https://discord.com/users/859760123456789123" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" height="40" style="fill:#5865F2;" />
   </a>
