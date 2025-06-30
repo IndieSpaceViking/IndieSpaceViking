@@ -13,13 +13,11 @@
 <p align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
   <!-- Cybersecurity Logos -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Metasploit_logo.svg" alt="Metasploit" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/BurpSuite_Comunity_Edition.svg" alt="Burp Suite" width="40" height="40" />
-  <img src="https://tryhackme.com/images/logo.svg" alt="TryHackMe" width="40" height="40" />
-  <img src="https://hackthebox.eu/static/images/htb-logo-full.svg" alt="Hack The Box" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Splunk_logo.svg" alt="Splunk" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo_metasploit.png" alt="Metasploit" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" alt="Burp Suite" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" alt="Splunk" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="Wireshark" width="40" height="40" />
 
   <!-- DevOps Logos -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
@@ -28,7 +26,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="SQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ansible_logo.svg" alt="Ansible" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
