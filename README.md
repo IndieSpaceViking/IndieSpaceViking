@@ -35,32 +35,15 @@
 
 ---
 
-### 🔭 Currently Brewing
+### Current Projects & Focus
 
-- 🧩 Freelance web development for growing businesses  
-- 🚀 Building [Upbeat Code](https://www.upbeatcode.com) toward **100k+ monthly visitors**  
-- 🧪 Experimenting with web-based AI integrations and user-friendly tools  
-
----
-
-### 🌱 Learning Potions
-
-<p align="center">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-</p>
+- 🤝 Collaborating on strategic freelance development projects  
+- 🔄 Modernizing legacy Visual Basic systems by rebuilding them in C# with interpreted logic  
+- 🤖 Developing advanced web-based AI integrations and autonomous chatbot frameworks  
 
 ---
 
-### 🤖 Looking for Allies In
-
-- 🧬 Integrating AI/LLMs into user-first web apps  
-- 🧠 Jam sessions on Web3 + frontend wizardry  
-
----
-
-### 📡 Find Me in the Wild
+### 👾 Find Me in the Wild
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ChristophWalls/" target="_blank">
@@ -82,8 +65,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight" alt="Christoph's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndieSpaceViking&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
