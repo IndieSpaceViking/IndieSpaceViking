@@ -63,15 +63,20 @@
 ### 📡 Find Me in the Wild
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ChristophWalls/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ChristophWalls/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://X.com/Indie_Viking">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/Indie_Viking" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/>
   </a>
-<a href="https://discord.com/users/859760123456789123">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
-</a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/859760123456789123" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" height="40" style="fill:#5865F2;" />
+  </a>
 </p>
 
 ---
