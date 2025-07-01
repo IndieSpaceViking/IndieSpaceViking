@@ -67,11 +67,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IndieSpaceViking&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IndieSpaceViking&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
