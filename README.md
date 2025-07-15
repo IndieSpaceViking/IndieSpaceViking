@@ -65,10 +65,10 @@
 <!-- Row 1: GitHub Stats and Streak -->
 <div align="center">
   <span style="display: inline-block; margin-left: 20px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
+    <img width="250" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
   </span>
   <span style="display: inline-block; margin-left: 20px;">
-    <img src="https://streak-stats.demolab.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+    <img width="250" src="https://streak-stats.demolab.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
   </span>
 </div>
 
