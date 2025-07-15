@@ -60,5 +60,52 @@
 
 ---
 
-🚀 GitHub Activity Dashboard
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" /> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=IndieSpaceViking&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=IndieSpaceViking&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
+## 🚀 GitHub Activity Dashboard
+
+<!-- Row 1: GitHub Stats and Streak -->
+<div align="center">
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
+  </div>
+  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  </div>
+</div>
+
+<br/>
+
+<!-- Row 2: Profile Trophies and Profile Views -->
+<div align="center">
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-profile-trophy.vercel.app/?username=IndieSpaceViking&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+  </div>
+  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=IndieSpaceViking&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  </div>
+</div>
+
+<br/>
+
+## 📊 GitHub Summary Cards
+
+<!-- Summary Cards: 5 cards total, split across 2 rows -->
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/3-stats.svg" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  </div>
+</div>
