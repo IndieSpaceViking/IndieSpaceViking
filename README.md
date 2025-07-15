@@ -64,7 +64,7 @@
 
 <!-- Row 1: GitHub Stats and Streak -->
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
@@ -75,6 +75,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
