@@ -60,17 +60,5 @@
 
 ---
 
-## 🚀 GitHub Activity Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IndieSpaceViking&theme=tokyonight&margin-w=15&no-frame=true" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IndieSpaceViking&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
+🚀 GitHub Activity Dashboard
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" /> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=IndieSpaceViking&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=IndieSpaceViking&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
