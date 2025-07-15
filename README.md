@@ -64,11 +64,11 @@
 
 <!-- Row 1: GitHub Stats and Streak -->
 <div align="center">
-  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
-    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
+  <div style="display: inline-block; vertical-align: top; width: 48%;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" style="width: 100%;" />
   </div>
-  <div style="display: inline-block; vertical-align: top;">
-    <img width="420" src="https://streak-stats.demolab.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  <div style="display: inline-block; vertical-align: top; width: 48%;">
+    <img src="https://streak-stats.demolab.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" style="width: 100%;" />
   </div>
 </div>
 
