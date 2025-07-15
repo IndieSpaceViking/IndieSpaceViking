@@ -63,14 +63,19 @@
 ## 🚀 GitHub Activity Dashboard
 
 <!-- Row 1: GitHub Stats and Streak -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://streak-stats.demolab.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 <br/>
