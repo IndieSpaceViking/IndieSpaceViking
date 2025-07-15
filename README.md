@@ -68,7 +68,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
   </div>
   <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndieSpaceViking&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndieSpaceViking&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
   </div>
 </div>
 
@@ -85,27 +85,3 @@
 </div>
 
 <br/>
-
-## 📊 GitHub Summary Cards
-
-<!-- Summary Cards: 5 cards total, split across 2 rows -->
-<div align="center">
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-  </div>
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  </div>
-</div>
-
-<div align="center">
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-  </div>
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/3-stats.svg" />
-  </div>
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/IndieSpaceViking/IndieSpaceViking/master/profile-summary-card-output/tokyonight/4-productive-time.svg" />
-  </div>
-</div>
