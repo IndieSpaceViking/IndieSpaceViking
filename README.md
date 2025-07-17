@@ -1,10 +1,11 @@
 <!-- Banner -->
-<h1 align="center">Hey, I'm Indie 👋</h1>
-<p align="center">Caffeine-powered dev | Dog Herder | lvl 33 Eco-Druid 🧙‍♂️🌿</p>
+<h1 align="center">Hey, I'm Indie</h1>
+<p align="center">Caffeine-powered Security Development | lvl 33 Eco-Druid 🧙‍♂️🌿</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F58C&center=true&vCenter=true&width=440&lines=Front-End+Alchemist+%F0%9F%8C%90;Building+with+React+%2B+Next.js;Crypto-curious+%7C+AI-inclined;Design+with+vibes+and+vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F58C&center=true&vCenter=true&width=480&lines=Front-End+Alchemist;Backend+Warlock;Crypto-curious+%7C+AI-inclined;Design+with+vibes+and+vision" alt="Typing SVG" />
 </p>
+
 
 ---
 ### 🔐 Cybersecurity & ⚙️ DevOps Arsenal
