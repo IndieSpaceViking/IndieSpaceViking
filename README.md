@@ -40,7 +40,6 @@
 - 🔄 Modernizing legacy Visual Basic systems by rebuilding them in C# with interpreted logic  
 - 🤖 Developing advanced web-based AI integrations and autonomous chatbot frameworks  
 
----
 <!--
 ### 👾 Find Me in the Wild
 
@@ -58,7 +57,6 @@
   </a>
 </p>
 -->
----
 
 ## 🚀 GitHub Activity Dashboard
 
