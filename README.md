@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hey, I'm Christoph 👋</h1>
+<h1 align="center">Hey, I'm Indie 👋</h1>
 <p align="center">Caffeine-powered dev | Dog Herder | lvl 33 Eco-Druid 🧙‍♂️🌿</p>
 
 <p align="center">
