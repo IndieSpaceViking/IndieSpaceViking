@@ -41,7 +41,7 @@
 - 🤖 Developing advanced web-based AI integrations and autonomous chatbot frameworks  
 
 ---
-
+<!--
 ### 👾 Find Me in the Wild
 
 <p align="center">
@@ -57,7 +57,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" height="40" style="fill:#5865F2;" />
   </a>
 </p>
-
+-->
 ---
 
 ## 🚀 GitHub Activity Dashboard
