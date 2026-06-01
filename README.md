@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hey, I'm Indie</h1>
+<h1 align="center">Hey, I'm Chris</h1>
 <p align="center">Caffeine-powered Security Development | lvl 33 Eco-Druid 🧙‍♂️🌿</p>
 
 <p align="center">
